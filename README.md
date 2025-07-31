@@ -31,34 +31,21 @@ The application is containerized using Docker and deployed in a Kubernetes clust
 
 ----
 
-Design:
 ⸻
 
 📸 Screenshots
 
-Here’s a visual overview of the IN1020-Universe platform:
+Here are some screenshots from the platform:
 
 <div align="center">
 
-<!-- Dashboard and navigation -->
-<img src="in1020_universe/pictures/dashboard.png" width="300"/>
-<img src="in1020_universe/pictures/ny_oppgave.png" width="300"/>
-<img src="in1020_universe/pictures/velg_tema_alene.png" width="300"/>
+  <img src="in1020_universe/dashboard.png" width="300"/> <img src="in1020_universe/ny_oppgave.png" width="300"/> <img src="in1020_universe/oppgave.png" width="300"/>
 
-<!-- Task-related -->
-<img src="in1020_universe/pictures/oppgave.png" width="300"/>
-<img src="in1020_universe/pictures/nettverk_alene.png" width="300"/>
-<img src="in1020_universe/pictures/velg_tema_gruppe.png" width="300"/>
+  <img src="in1020_universe/svar.png" width="300"/> <img src="in1020_universe/chatbot.png" width="300"/> <img src="in1020_universe/avatar.png" width="300"/>
 
-<!-- Stats and feedback -->
-<img src="in1020_universe/pictures/statistikk1.png" width="300"/>
-<img src="in1020_universe/pictures/statistikk2.png" width="300"/>
-<img src="in1020_universe/pictures/svar.png" width="300"/>
+  <img src="in1020_universe/statistikk1.png" width="300"/> <img src="in1020_universe/statistikk2.png" width="300"/> <img src="in1020_universe/omid.png" width="300"/>
 
-<!-- Chatbot and avatars -->
-<img src="in1020_universe/pictures/chatbot.png" width="300"/>
-<img src="in1020_universe/pictures/avatar.png" width="300"/>
-<img src="in1020_universe/pictures/omid.png" width="300"/>
+  <img src="in1020_universe/velg_tema_alene.png" width="300"/> <img src="in1020_universe/velg_tema_gruppe.png" width="300"/> <img src="in1020_universe/nettverk_alene.png" width="300"/>
 
 </div>
 
