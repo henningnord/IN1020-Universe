@@ -38,7 +38,7 @@ The application is containerized using Docker and deployed in a Kubernetes clust
 Here are some screenshots from the platform:
 
 <div align="center">
-  <img src="in1020_universe/velg_tema_alene.png" width="300"/> <img src="in1020_universe/velg_tema_gruppe.png" width="300"/> <img src="in1020_universe/nettverk_alene.png" width="300"/>
+ <img src="in1020_universe/homepage.png" width="300"/> <img src="in1020_universe/velg_tema_alene.png" width="300"/> <img src="in1020_universe/velg_tema_gruppe.png" width="300"/> <img src="in1020_universe/nettverk_alene.png" width="300"/>
 	
  <img src="in1020_universe/ny_oppgave.png" width="300"/> <img src="in1020_universe/oppgave.png" width="300"/><img src="in1020_universe/omid.png" width="300"/>
 
