@@ -8,24 +8,24 @@ The platform presents a variety of interactive tasks, both single-player and mul
 
 ___
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
-Frontend:
+**Frontend**:
 - React
 - TypeScript
 
-Backend:
+**Backend**:
 - Django (Python)
 - PostgreSQL
 
-Other technologies:
+**Other technologies**:
 - Docker
 - Kubernetes (deployed on UiO’s internal infrastructure)
 - Azure OpenAI API 
 
 ___
 
-🛠 Deployment
+## 🛠 Deployment
 
 The application is containerized using Docker and deployed in a Kubernetes cluster hosted on the University of Oslo’s servers. Authentication is handled via UiO’s Weblogin 2.
 
