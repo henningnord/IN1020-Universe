@@ -11,17 +11,17 @@ ___
 🚀 Tech Stack
 
 Frontend:
-	•	React
-	•	TypeScript
+- React
+- TypeScript
 
 Backend:
-	•	Django (Python)
-	•	PostgreSQL
+- Django (Python)
+- PostgreSQL
 
 Other technologies:
-	•	Docker
-	•	Kubernetes (deployed on UiO’s internal infrastructure)
-	•	Azure OpenAI API 
+- Docker
+- Kubernetes (deployed on UiO’s internal infrastructure)
+- Azure OpenAI API 
 
 ___
 
