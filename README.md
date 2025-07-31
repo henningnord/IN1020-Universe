@@ -23,13 +23,13 @@ Other technologies:
 	•	Kubernetes (deployed on UiO’s internal infrastructure)
 	•	Azure OpenAI API 
 
-⸻
+___
 
 🛠 Deployment
 
 The application is containerized using Docker and deployed in a Kubernetes cluster hosted on the University of Oslo’s servers. Authentication is handled via UiO’s Weblogin 2.
 
-⸻
+___
 
 📸 Screenshots
 
