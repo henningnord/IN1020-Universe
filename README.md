@@ -6,7 +6,7 @@ This project was developed as part of my summer internship at the University of 
 
 The platform presents a variety of interactive tasks, both single-player and multiplayer—that are intended to be solved individually or in groups. It also features an integrated AI-powered chatbot to support students by answering questions about the course content.
 
-⸻
+___
 
 🚀 Tech Stack
 
