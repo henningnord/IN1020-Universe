@@ -31,7 +31,7 @@ The application is containerized using Docker and deployed in a Kubernetes clust
 
 ___
 
-📸 Screenshots
+## 📸 Screenshots
 
 Here are some screenshots from the platform:
 
